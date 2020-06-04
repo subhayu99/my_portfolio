@@ -1,0 +1,30 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# 
+- project: Bike Sharing Prediction project using Neural Networks
+  #role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
+  url: "https://github.com/subhayu99/bike_sharing_project_with_NN"
+  description: 'Developed as coursework for Udacity "Deep Learning" Nanodegree. In this project, I built a neural network to predict daily bike rental ridership.'
+
+# 
+- project: Covid-Hero
+  #role: Co-Founder & Organizer
+  #duration: 2007 &mdash; Present
+  url: "https://covid-hero.herokuapp.com"
+  description: This was a submission project for The Open Hacks hackathon. To keep us aware and to answer the COVID related queries we have developed a chatbot called COVID-hero that will guide you throughout this global disaster.
+  
+# 
+- project: Azure Telemetry Service
+  #role: Co-Founder & Organizer
+  #duration: 2007 &mdash; Present
+  url: "https://github.com/subhayu99/Azure-telemetry-service"
+  description: "This project is based on Microsoft Azure's feature: IoT Hub. This project is all about sending telemetry messages to devices like raspberry pi and get back their topological info through a VM (Virtual Machine)."
+  
+# 
+- project: Student Advisor Chatbot
+  #role: Co-Founder & Organizer
+  #duration: 2007 &mdash; Present
+  url: "https://integrations.au-syd.assistant.watson.cloud.ibm.com/web/public/a6ce64a2-a5be-4942-824a-c666c2531014"
+  description: "This Chatbot is built using Watson Assistant and Watson Discovery . It can resolve your queries on education and might recommend you with suitable courses/certifications if you want. This is the project I completed while doing the couse Building AI Applications with Watson APIs."
