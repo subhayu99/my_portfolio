@@ -2,7 +2,7 @@
 
 *A simple Jekyll + GitHub Pages powered resume.*
 
-![img](images/screenshot.png)
+![img](images/screenshot1.png)
 
 ## Docs
 
