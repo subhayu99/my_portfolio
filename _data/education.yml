@@ -1,13 +1,18 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor of Technology, Information Technology
+  uni: Calcutta Institute of Engineering and Management
+  year: 2018 &mdash; present
+  Overall CGPA: 7.2
+
+
 
 - degree: High School Diploma
   uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  year: 2018
+  CGPA: 6.5/10
+  
+
+- degree: Class 10
+  uni: Amrita Vidyalayam, Durgapur
+  year: 2016
+  CGPA: 8.4/10
