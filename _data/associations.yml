@@ -1,6 +1,13 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organisation: International Association of Engineers (IAENG)
+  role: Member
+  year: 2020 &mdash; Present
+  url: http://www.iaeng.org
+  summary: "The International Association of Engineers (IAENG) is a non-profit international association for the engineers and the computer scientists. My Member ID is 261434. I'm also a member of IAENG Society of Artificial Intelligence and IAENG Society of Computer Science." 
+
+
 - organization: AYUDH India
   role: Volunteer
   year: 2018 &mdash; Present
