@@ -1,7 +1,7 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organisation: International Association of Engineers (IAENG)
+- organization: International Association of Engineers (IAENG)
   role: Member
   year: 2020 &mdash; Present
   url: http://www.iaeng.org
@@ -22,7 +22,7 @@
   summary: During the COVID-19 pandemic I took a pledge to become a MBRU Ambassador for health and immunity for the society.
 
 
-- organisation: Social Psychology Network
+- organization: Social Psychology Network
   role: Member
   year: 2020 &mdash; Present
   url: https://www.socialpsychology.org/member/kumar-bala
