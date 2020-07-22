@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
+<script src="https://www.paypal.com/sdk/js?client-id=sb"></script>
 
+<script>paypal.Buttons().render('body');</script>
   {% include head.html %}
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
